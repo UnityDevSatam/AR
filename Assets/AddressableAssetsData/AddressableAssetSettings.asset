@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 0d6851da8c1ba458d88fd70c965d26d1
+  m_BuildRemoteCatalog: 1
+  m_RemoteCatalogBuildPath:
+    m_Id: 01a0c499a13064ee7b0e95e11df54ed3
+  m_RemoteCatalogLoadPath:
+    m_Id: 1ccf506fc16074653b10bb84d7b05b59
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 83f4754e0fae6424daa1c5248877015a, type: 2}
+  - {fileID: 11400000, guid: 70ae82fac793f4634b95f09cb78dcdd9, type: 2}
+  - {fileID: 11400000, guid: c1cba85d91f0c48459c64b5e468960ea, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 51176e77a2c6e4fc28e73c1a8aa4c1e4
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 0b12073f59a4249128fbc104b0ac6f0d
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 06039b340c40e4305abe511418ced762
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: ebc321f215f6b4e48bfee56360ec2d4a
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 01a0c499a13064ee7b0e95e11df54ed3
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 1ccf506fc16074653b10bb84d7b05b59
+        m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: d989d6d68af71431099a706acc9ebc5f
+      m_ProfileName: CityDesignModels
+      m_Values:
+      - m_Id: 0b12073f59a4249128fbc104b0ac6f0d
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 06039b340c40e4305abe511418ced762
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: ebc321f215f6b4e48bfee56360ec2d4a
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 01a0c499a13064ee7b0e95e11df54ed3
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 1ccf506fc16074653b10bb84d7b05b59
+        m_Value: http://192.168.0.62:8887/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 0b12073f59a4249128fbc104b0ac6f0d
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 06039b340c40e4305abe511418ced762
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: ebc321f215f6b4e48bfee56360ec2d4a
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 01a0c499a13064ee7b0e95e11df54ed3
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 1ccf506fc16074653b10bb84d7b05b59
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - BambooHouse
+    - BrownBuilding
+    - Cottage
+    - House1
+    - House2
+    - MedievalHouses
+    - Road1
+    - Road2
+    - ModelDetails
+    - SubCategoryList
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 5e18957f49bb04b109296a007a5f84c8, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 423393f10669a45698f5415dd125a1b7, type: 2}
+  - {fileID: 11400000, guid: e9229850bd50d4bbab79cc0697e8a1da, type: 2}
+  - {fileID: 11400000, guid: 6135ce531de4943e6bad81fcaa37170e, type: 2}
+  - {fileID: 11400000, guid: 645033242807c4bf59a542387e96217a, type: 2}
+  m_ActiveProfileId: d989d6d68af71431099a706acc9ebc5f
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

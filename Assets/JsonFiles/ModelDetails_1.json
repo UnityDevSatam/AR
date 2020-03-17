@@ -1,0 +1,23 @@
+{"ModelDetails" :
+  {
+    "Category": 
+    [
+      {
+        "catName" : "City",
+        "SubCategory":
+        [
+          {
+            "subCatName" : "Building",
+            "ObjectList" : 
+            [
+              {"ItemName" : "Building","icon" : ""},
+              {"ItemName" : "FarmHouse","icon" : ""},
+              {"ItemName" : "Tower","icon" : ""},
+              {"ItemName" : "BambooHouse","icon" : ""}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

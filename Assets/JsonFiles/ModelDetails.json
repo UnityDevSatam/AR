@@ -1,0 +1,52 @@
+{"Category": 
+    [
+      {
+        "catName" : "City",
+        "SubCategory":
+        [
+            {
+                "subCatName": "Buildings",
+                "ObjectList": [
+                    {
+                        "ItemName": "MedievalHouses",
+                        "icon": "http://192.168.0.62:8887/Sprites/MedievalHouses.png"
+                    },
+                    {
+                        "ItemName": "House2",
+                        "icon": "http://192.168.0.62:8887/Sprites/House2.png"
+                    },
+                    {
+                        "ItemName": "House1",
+                        "icon": "http://192.168.0.62:8887/Sprites/House1.png"
+                    },
+                    {
+                        "ItemName": "Cottage",
+                        "icon": "http://192.168.0.62:8887/Sprites/Cottage.png"
+                    },
+                    {
+                        "ItemName": "BrownBuilding",
+                        "icon": "http://192.168.0.62:8887/Sprites/BrownBuilding.png"
+                    },
+                    {
+                        "ItemName": "BambooHouse",
+                        "icon": "http://192.168.0.62:8887/Sprites/BambooHouse.png"
+                    }
+                ]
+            },
+            {
+                "subCatName": "Roads",
+                "ObjectList": [
+                    {
+                        "ItemName": "Road1",
+                        "icon": "http://192.168.0.62:8887/Sprites/Road1.png"
+                    },
+                    {
+                        "ItemName": "Road2",
+                        "icon": "http://192.168.0.62:8887/Sprites/Road2.png"
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+}

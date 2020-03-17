@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CityDesignGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: CityDesignGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d344882d1013e416081309cb5ab8049c
+  m_SerializeEntries:
+  - m_GUID: 092152e6ee6414667a04b1cadeda7dc6
+    m_Address: MedievalHouses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MedievalHouses
+  - m_GUID: 2a265870dc95e4436acd061001b2c5be
+    m_Address: BrownBuilding
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BrownBuilding
+  - m_GUID: 3172db0f8a1dc4b948337343db626dec
+    m_Address: House1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - House1
+  - m_GUID: 5492a8532bcdd4c568d821d394e5f1ef
+    m_Address: BambooHouse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BambooHouse
+  - m_GUID: 5e020cece5f7840e3b706c6901ce7aa8
+    m_Address: SubCategoryList
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SubCategoryList
+  - m_GUID: 7777832f314b84efe91fb5d367dee5b4
+    m_Address: Road2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road2
+  - m_GUID: cd4e812cf2b8740dfaebd1c81c2744ce
+    m_Address: House2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - House2
+  - m_GUID: ce1dc040a40124338bfb04b55fe101aa
+    m_Address: Cottage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cottage
+  - m_GUID: e4a596e471d2249c797a1e72604d5821
+    m_Address: Road1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Road1
+  - m_GUID: e58b504806927402d874927d8006c00c
+    m_Address: ModelDetails
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ModelDetails
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c73ba01e4803441f1a8a20ed193d6110, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 77824e504d42b4c56b9204ffb49a8863, type: 2}
+    - {fileID: 11400000, guid: c22df1354be1a4350bef5633fae2ffd3, type: 2}
